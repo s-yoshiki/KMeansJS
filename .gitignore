@@ -1,0 +1,26 @@
+######################
+### KMeansJS
+######################
+
+## common
+.DS_Store
+*.log
+
+## node 
+/node_modules
+/app/public/resources
+/app/public/scripts
+/app/public/styles
+/app/public/*.html
+/app/public/vendors
+
+## bower
+/bower_components
+
+## images
+# *.jpg
+# *.png
+# *.gif
+
+## contents
+*.shtml
