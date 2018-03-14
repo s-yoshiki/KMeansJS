@@ -1,5 +1,5 @@
 # KMeansJS
-<img src="https://github.com/s-yoshiki/KMeansJS/blob/master/images/kmeans.gif" width="256" height="256">
+<img src="https://github.com/s-yoshiki/KMeansJS/blob/master/images/kmeans.gif" width="512" height="512">
 
 ## 概要
 非階層型クラスタリングのアルゴリズム
